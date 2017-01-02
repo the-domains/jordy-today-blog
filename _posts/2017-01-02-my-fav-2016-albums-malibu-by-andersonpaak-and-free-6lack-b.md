@@ -51,9 +51,9 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/Jordy_Webb/status/815436807420579841'
-datePublished: '2017-01-02T15:11:40.826Z'
-dateModified: '2017-01-02T15:11:00.819Z'
-datePublishedOriginal: '2017-01-02T15:11:40.826Z'
+datePublished: '2017-01-02T15:11:41.186Z'
+dateModified: '2017-01-02T15:11:02.828Z'
+datePublishedOriginal: '2017-01-02T15:11:41.186Z'
 title: ''
 via: {}
 inFeed: true
