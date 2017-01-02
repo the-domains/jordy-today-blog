@@ -1,0 +1,43 @@
+typography_spectrum: 0.12237965851090848
+color:
+  brandStrength: 0.49644097755663097
+  lightness: 0.656527888495475
+  saturation: 0.27616546559147537
+  rhythmicContrast: 0.22938845795579255
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.24126001098193228
+name: My Blog
+navigation:
+  - url: 'http://www.theminimalists.com/game/'
+    name: Minimalists
+    type: external
+  - name: Home
+    url: 'http://jordy.help'
+    type: external
+  - name: Art
+    url: 'http://art.jordy.help'
+    type: external
+content: []
+coverPrefs:
+  filter: false
+purpose:
+  - type: contact
+    url: 'tel:9716450553'
+    label: Call 9716450553
+  - type: contact
+    url: 'mailto:webb.jordy@gmail.com'
+    label: Contact me
+title: Jordy's Blog
+description: A blog about things
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/83a6c9fc-190a-4e2b-bfa3-01620ea6517a.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/021ee57e-94fe-4f75-9cc8-cc491ed6a1d0.png
+content_rating:
+  adult: false
