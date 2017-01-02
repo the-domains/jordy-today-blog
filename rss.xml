@@ -4,9 +4,9 @@
         <description><![CDATA[Jordy's Blog]]></description>
         <link>http://blog.jordy.help/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Jan 2017 15:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2017 15:13:15 GMT</lastBuildDate>
         <atom:link href="http://blog.jordy.help/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Jan 2017 15:11:45 GMT</pubDate>
+        <pubDate>Mon, 02 Jan 2017 15:11:46 GMT</pubDate>
         <item>
             <title><![CDATA[The Grid Webinar]]></title>
             <description><![CDATA[<article><h1>The Grid Webinar</h1><p>I did a live Q&A for the Grid webinar yesterday. It was a ton of fun! In case you missed it, here’s a recording.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b9b0594dd580e7159d26399d6001353a/croprotate.jpg?cropheight=720&cropwidth=960&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FY6poKOj2oj8%2Fmaxresdefault.jpg&x=160&y=0"></article>]]></description>
@@ -39,6 +39,20 @@
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>My fav 2016 albums. Malibu by @AndersonPaak and Free 6lack by @6LACK</blockquote>]]></description>
             <link>https://twitter.com/Jordy_Webb/status/815436807420579841</link>
+            <guid isPermaLink="false">302afe05-7a24-4fd1-8375-d14d52ee8c89</guid>
+            <pubDate>Mon, 02 Jan 2017 15:11:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>My fav 2016 albums. Malibu by @AndersonPaak and Free 6lack by @6LACK</blockquote>]]></description>
+            <link>https://twitter.com/Jordy_Webb/status/815436807420579841</link>
+            <guid isPermaLink="false">f2c719e4-b322-4238-9fac-b642a23b6fc6</guid>
+            <pubDate>Mon, 02 Jan 2017 15:11:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>My fav 2016 albums. Malibu by @AndersonPaak and Free 6lack by @6LACK</blockquote>]]></description>
+            <link>https://twitter.com/Jordy_Webb/status/815436807420579841</link>
             <guid isPermaLink="false">c34a0dac-ee0c-4a9f-a6fa-c52d8ea00831</guid>
             <pubDate>Mon, 02 Jan 2017 15:11:43 GMT</pubDate>
         </item>
@@ -62,20 +76,6 @@
             <link>https://twitter.com/Jordy_Webb/status/815436807420579841</link>
             <guid isPermaLink="false">1942c0fa-8c43-4b14-94ee-6df685c81268</guid>
             <pubDate>Mon, 02 Jan 2017 15:11:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>My fav 2016 albums. Malibu by @AndersonPaak and Free 6lack by @6LACK</blockquote>]]></description>
-            <link>https://twitter.com/Jordy_Webb/status/815436807420579841</link>
-            <guid isPermaLink="false">897485ef-d351-4efd-b15e-adcb236f80f0</guid>
-            <pubDate>Mon, 02 Jan 2017 15:11:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>My fav 2016 albums. Malibu by @AndersonPaak and Free 6lack by @6LACK</blockquote>]]></description>
-            <link>https://twitter.com/Jordy_Webb/status/815436807420579841</link>
-            <guid isPermaLink="false">3b219bd3-a2fb-44fe-a319-70c032d36ffb</guid>
-            <pubDate>Mon, 02 Jan 2017 15:11:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
