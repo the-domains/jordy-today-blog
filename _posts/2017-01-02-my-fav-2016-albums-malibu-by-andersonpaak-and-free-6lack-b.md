@@ -47,13 +47,13 @@ inLanguage: en
 app_links:
   - path: >-
       twitter/tweet?status_id=815436807420579841&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E815436807420579841
-    type: android
-    namespace: google
     package: com.twitter.android
+    namespace: google
+    type: android
 isBasedOnUrl: 'https://twitter.com/Jordy_Webb/status/815436807420579841'
-datePublished: '2017-01-02T15:11:41.569Z'
-dateModified: '2017-01-02T15:11:04.640Z'
-datePublishedOriginal: '2017-01-02T15:11:41.569Z'
+datePublished: '2017-01-02T15:11:41.958Z'
+dateModified: '2017-01-02T15:11:05.313Z'
+datePublishedOriginal: '2017-01-02T15:11:41.958Z'
 title: ''
 via: {}
 inFeed: true
