@@ -4,7 +4,7 @@
         <description><![CDATA[Jordy's Blog]]></description>
         <link>http://blog.jordy.help/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Jan 2017 15:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2017 15:11:43 GMT</lastBuildDate>
         <atom:link href="http://blog.jordy.help/rss.xml" rel="self" type="application/rss+xml"/>
         <pubDate>Mon, 02 Jan 2017 15:11:41 GMT</pubDate>
         <item>
@@ -34,6 +34,13 @@
             <link>https://www.youtube.com/watch?v=gnKvtfEGDjQ</link>
             <guid isPermaLink="false">8003e6f5-69d0-4fc3-82ff-0a49d1709a13</guid>
             <pubDate>Thu, 29 Dec 2016 20:33:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>My fav 2016 albums. Malibu by @AndersonPaak and Free 6lack by @6LACK</blockquote>]]></description>
+            <link>https://twitter.com/Jordy_Webb/status/815436807420579841</link>
+            <guid isPermaLink="false">050076a7-0402-4093-9965-33cf0c5eaf9e</guid>
+            <pubDate>Mon, 02 Jan 2017 15:11:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
