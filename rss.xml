@@ -4,7 +4,7 @@
         <description><![CDATA[Jordy's Blog]]></description>
         <link>http://blog.jordy.help/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Jan 2017 15:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2017 15:12:52 GMT</lastBuildDate>
         <atom:link href="http://blog.jordy.help/rss.xml" rel="self" type="application/rss+xml"/>
         <pubDate>Mon, 02 Jan 2017 15:11:44 GMT</pubDate>
         <item>
@@ -39,6 +39,13 @@
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>My fav 2016 albums. Malibu by @AndersonPaak and Free 6lack by @6LACK</blockquote>]]></description>
             <link>https://twitter.com/Jordy_Webb/status/815436807420579841</link>
+            <guid isPermaLink="false">5360f083-8e26-46b4-8c1b-0c0034038196</guid>
+            <pubDate>Mon, 02 Jan 2017 15:11:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>My fav 2016 albums. Malibu by @AndersonPaak and Free 6lack by @6LACK</blockquote>]]></description>
+            <link>https://twitter.com/Jordy_Webb/status/815436807420579841</link>
             <guid isPermaLink="false">6af62e7a-a63f-4a73-ab31-b7de8a5e4df6</guid>
             <pubDate>Mon, 02 Jan 2017 15:11:43 GMT</pubDate>
         </item>
@@ -68,13 +75,6 @@
             <description><![CDATA[<blockquote>My fav 2016 albums. Malibu by @AndersonPaak and Free 6lack by @6LACK</blockquote>]]></description>
             <link>https://twitter.com/Jordy_Webb/status/815436807420579841</link>
             <guid isPermaLink="false">45356ec1-e9d4-4045-9cc6-1ef6e283bd80</guid>
-            <pubDate>Mon, 02 Jan 2017 15:11:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>My fav 2016 albums. Malibu by @AndersonPaak and Free 6lack by @6LACK</blockquote>]]></description>
-            <link>https://twitter.com/Jordy_Webb/status/815436807420579841</link>
-            <guid isPermaLink="false">050076a7-0402-4093-9965-33cf0c5eaf9e</guid>
             <pubDate>Mon, 02 Jan 2017 15:11:41 GMT</pubDate>
         </item>
     </channel>
