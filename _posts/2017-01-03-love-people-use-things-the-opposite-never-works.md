@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: 'Love people, use things. The opposite never works.'
-dateModified: '2017-01-03T18:34:23.932Z'
-datePublished: '2017-01-03T18:34:24.400Z'
-title: ''
+dateModified: '2017-01-03T18:36:13.806Z'
+datePublished: '2017-01-03T18:36:14.306Z'
+title: More true words have never been said!
 author:
   - name: theminimalists
     url: 'http://twitter.com/theminimalists'
@@ -33,10 +33,16 @@ author:
 publisher: {}
 via: {}
 isBasedOnUrl: 'https://twitter.com/TheMinimalists/status/641418063146053632'
+sourcePath: _posts/2017-01-03-love-people-use-things-the-opposite-never-works.md
 starred: false
 datePublishedOriginal: '2017-01-03T18:34:24.400Z'
-sourcePath: _posts/2017-01-03-love-people-use-things-the-opposite-never-works.md
 _type: MediaObject
 
 ---
+## More true words have never been said!
+
 > Love people, use things. The opposite never works.
+
+[Follow Minimalists][0]
+
+[0]: https://twitter.com/TheMinimalists
