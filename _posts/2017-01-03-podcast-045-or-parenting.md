@@ -65,13 +65,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ta9xSTUdrTk'
 title: Podcast 045 | Parenting
-datePublished: '2017-01-03T15:02:21.711Z'
-dateModified: '2017-01-03T14:54:12.106Z'
-datePublishedOriginal: '2017-01-03T15:02:21.711Z'
+datePublished: '2017-01-03T18:37:33.670Z'
+dateModified: '2017-01-03T18:37:33.089Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-03-podcast-045-or-parenting.md
+starred: false
+datePublishedOriginal: '2017-01-03T15:02:21.711Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
