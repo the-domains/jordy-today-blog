@@ -30,8 +30,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.theminimalists.com/'
 title: The Minimalists
-datePublished: '2017-01-03T01:29:20.516Z'
-dateModified: '2017-01-03T01:29:19.910Z'
+datePublished: '2017-01-03T18:37:33.668Z'
+dateModified: '2017-01-03T18:37:33.089Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-29-the-minimalists.md
