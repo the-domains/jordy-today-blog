@@ -27,8 +27,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://less.best/'
 title: Less is Best
-datePublished: '2017-01-03T01:57:28.407Z'
-dateModified: '2017-01-03T01:57:27.756Z'
+datePublished: '2017-01-03T01:57:36.103Z'
+dateModified: '2017-01-03T01:57:35.284Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-29-less-is-best.md
@@ -43,4 +43,3 @@ I've recently started the journey toward minimalism! I've reduced all of my clot
 <article style=""><h1>Less is Best</h1><p>We believe that owning fewer material things can make us happier. Reduce what we own, rent what we need, and refine the rest. Here is the deceivingly simple method to our happiness.</p></article>
 
 Update: The journey continues! My house is a lot less cluttered. I have clean garage, clean office and living room. I already feel way less stressed. I was so anxious in my own home with all of the shit that I had that I was ready to move. Now, I'm happy in my own home again.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e68343d34674ebc0b8319bc919a86df49fd40cf.png)
