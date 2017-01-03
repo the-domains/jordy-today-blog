@@ -14,8 +14,7 @@ color:
     - '#002F2F'
 github: true
 layout_spectrum: 0.24126001098193228
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/021ee57e-94fe-4f75-9cc8-cc491ed6a1d0.png
+logo: null
 name: My Blog
 navigation:
   - url: 'http://www.theminimalists.com/game/'
