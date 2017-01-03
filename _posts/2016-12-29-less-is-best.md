@@ -26,14 +26,14 @@ description: >-
 inLanguage: en
 app_links: []
 title: Less is Best
-datePublished: '2017-01-03T02:03:05.615Z'
-dateModified: '2017-01-03T02:03:04.866Z'
+datePublished: '2017-01-03T02:03:09.156Z'
+dateModified: '2017-01-03T02:03:08.702Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-29-less-is-best.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2016-12-29T08:15:06.596Z'
-hasPage: true
 url: less-is-best/index.html
 _context: 'http://schema.org'
 _type: MediaObject
