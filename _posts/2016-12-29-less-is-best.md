@@ -26,8 +26,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: Less is Best
-datePublished: '2017-01-03T18:37:33.672Z'
-dateModified: '2017-01-03T18:37:33.089Z'
+datePublished: '2017-01-03T18:40:04.561Z'
+dateModified: '2017-01-03T18:40:03.647Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-29-less-is-best.md
