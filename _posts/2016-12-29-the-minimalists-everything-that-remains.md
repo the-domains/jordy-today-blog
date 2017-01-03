@@ -66,8 +66,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=gnKvtfEGDjQ'
 title: 'The Minimalists: Everything That Remains'
-datePublished: '2017-01-03T01:29:20.511Z'
-dateModified: '2017-01-03T01:29:19.910Z'
+datePublished: '2017-01-03T18:37:33.660Z'
+dateModified: '2017-01-03T18:37:33.089Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-29-the-minimalists-everything-that-remains.md
