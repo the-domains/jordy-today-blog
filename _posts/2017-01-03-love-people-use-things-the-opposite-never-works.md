@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Love people, use things. The opposite never works.'
-dateModified: '2017-01-03T18:40:03.647Z'
-datePublished: '2017-01-03T18:40:04.540Z'
+dateModified: '2017-01-03T18:45:36.719Z'
+datePublished: '2017-01-03T18:45:37.884Z'
 title: More true words have never been said!
 author:
   - name: theminimalists
