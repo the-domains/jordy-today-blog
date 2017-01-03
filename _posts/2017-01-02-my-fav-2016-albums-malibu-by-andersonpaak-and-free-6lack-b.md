@@ -47,11 +47,11 @@ inLanguage: en
 app_links:
   - path: >-
       twitter/tweet?status_id=815436807420579841&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E815436807420579841
-    package: com.twitter.android
-    namespace: google
     type: android
+    namespace: google
+    package: com.twitter.android
 isBasedOnUrl: 'https://twitter.com/Jordy_Webb/status/815436807420579841'
-datePublished: '2017-01-03T01:28:42.064Z'
+datePublished: '2017-01-03T01:28:43.542Z'
 dateModified: '2017-01-03T01:28:40.120Z'
 title: ''
 via: {}
@@ -59,7 +59,7 @@ inFeed: true
 sourcePath: >-
   _posts/2017-01-02-my-fav-2016-albums-malibu-by-andersonpaak-and-free-6lack-b.md
 starred: false
-datePublishedOriginal: '2017-01-02T15:11:41.958Z'
+datePublishedOriginal: '2017-01-02T15:11:41.569Z'
 _type: Comment
 _context: 'http://schema.org'
 
