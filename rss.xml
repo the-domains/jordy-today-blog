@@ -4,9 +4,9 @@
         <description><![CDATA[Jordy's Blog]]></description>
         <link>http://blog.jordy.help/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Jan 2017 18:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2017 18:45:32 GMT</lastBuildDate>
         <atom:link href="http://blog.jordy.help/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Jan 2017 18:45:18 GMT</pubDate>
+        <pubDate>Tue, 03 Jan 2017 18:45:26 GMT</pubDate>
         <item>
             <title><![CDATA[The Grid Webinar]]></title>
             <description><![CDATA[<article><h1>The Grid Webinar</h1><p>I did a live Q&A for the Grid webinar yesterday. It was a ton of fun! In case you missed it, here’s a recording. We have a lot more webinars coming up soon! Stay tuned!</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b9b0594dd580e7159d26399d6001353a/croprotate.jpg?cropheight=720&cropwidth=960&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FY6poKOj2oj8%2Fmaxresdefault.jpg&x=160&y=0"></article>]]></description>
@@ -54,13 +54,6 @@
             <description><![CDATA[<article><h1>Minimalism: Live a Meaningful Life (Audiobook)</h1><p>In their debut book, The Minimalists explore their troubled pasts and descent into depression. After a pair of life-changing events, they discovered minimalism, allowing them to eliminate their excess material things so they could focus on life's most important "things": health, relationships, passion, growth, and contribution.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/15d4027f06a7a5ae87da9cb24ecd5a59/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F2FYRQRjzihs%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=2FYRQRjzihs</link>
             <guid isPermaLink="false">3ae0251d-4216-439c-8d3c-c27186babb5b</guid>
-            <pubDate>Tue, 03 Jan 2017 18:40:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Essential: Essays by The Minimalists (Audiobook)]]></title>
-            <description><![CDATA[<article><h1>Essential: Essays by The Minimalists (Audiobook)</h1><p>The best of The Minimalists! From simple living, decluttering, and finances, to passion, health, and relationships, ESSENTIAL is for anyone who desires a more intentional life.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/acba0c9dc03bc73f07039702a48e4542/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FAuFaXJOX-qU%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=AuFaXJOX-qU</link>
-            <guid isPermaLink="false">9fb872a9-b691-4335-8251-37fa6ad7a9a4</guid>
             <pubDate>Tue, 03 Jan 2017 18:40:04 GMT</pubDate>
         </item>
     </channel>
