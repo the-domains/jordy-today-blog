@@ -26,8 +26,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: Less is Best
-datePublished: '2017-01-03T02:03:51.368Z'
-dateModified: '2017-01-03T02:03:50.459Z'
+datePublished: '2017-01-03T02:03:58.931Z'
+dateModified: '2017-01-03T02:03:58.586Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-29-less-is-best.md
@@ -46,3 +46,5 @@ I've recently started the journey toward minimalism! I've reduced all of my clot
 Update: The journey continues! My house is a lot less cluttered. I have clean garage, clean office and living room. I already feel way less stressed. I was so anxious in my own home with all of the shit that I had that I was ready to move. Now, I'm happy in my own home again.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPL_lgycWAgpwuxxZI5tr-gJW3_nH8bKIUc&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGGItVvYRKE4&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGGItVvYRKE4%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPL_lgycWAgpwuxxZI5tr-gJW3_nH8bKIUc&amp;url=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL_lgycWAgpwuxxZI5tr-gJW3_nH8bKIUc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBLY_ft1_ofk%2Fhqdefault.jpg%3Fcustom%3Dtrue%26w%3D246%26h%3D138%26stc%3Dtrue%26jpg444%3Dtrue%26jpgq%3D90%26sp%3D68%26sigh%3DeF-mP2tWhiykFjUAsqDrPha8b_Y&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="853" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
