@@ -22,7 +22,8 @@ keywords:
   - '401'
 description: >-
   I did a live Q&A for the Grid webinar yesterday. It was a ton of fun! In case
-  you missed it, here’s a recording.
+  you missed it, here’s a recording. We have a lot more webinars coming up soon!
+  Stay tuned!
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Y6poKOj2oj8&feature=applinks'
@@ -63,8 +64,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Y6poKOj2oj8&feature=youtu.be'
 title: The Grid Webinar
-datePublished: '2017-01-03T01:35:43.183Z'
-dateModified: '2017-01-03T01:35:42.238Z'
+datePublished: '2017-01-03T18:32:20.617Z'
+dateModified: '2017-01-03T18:32:19.613Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-29-the-five-minute-website-on-the-grid-follow-up.md
@@ -76,6 +77,6 @@ _context: 'http://schema.org'
 ---
 ## The Grid Webinar
 
-I did a live Q&A for the Grid webinar yesterday. It was a ton of fun! In case you missed it, here's a recording.
+I did a live Q&A for the Grid webinar yesterday. It was a ton of fun! In case you missed it, here's a recording. We have a lot more webinars coming up soon! Stay tuned!
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FY6poKOj2oj8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DY6poKOj2oj8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FY6poKOj2oj8%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
