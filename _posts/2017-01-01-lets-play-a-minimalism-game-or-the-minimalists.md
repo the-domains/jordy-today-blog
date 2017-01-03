@@ -29,8 +29,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.theminimalists.com/game/'
 title: Let's Play a Minimalism Game | The Minimalists
-datePublished: '2017-01-03T01:29:13.255Z'
-dateModified: '2017-01-03T01:29:12.462Z'
+datePublished: '2017-01-03T01:29:20.508Z'
+dateModified: '2017-01-03T01:29:19.910Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-01-lets-play-a-minimalism-game-or-the-minimalists.md
