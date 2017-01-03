@@ -27,8 +27,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://less.best/'
 title: Less is Best
-datePublished: '2017-01-03T01:58:59.085Z'
-dateModified: '2017-01-03T01:58:58.583Z'
+datePublished: '2017-01-03T01:59:00.138Z'
+dateModified: '2017-01-03T01:58:59.706Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-29-less-is-best.md
