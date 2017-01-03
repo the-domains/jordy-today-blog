@@ -4,9 +4,9 @@
         <description><![CDATA[Jordy's Blog]]></description>
         <link>http://blog.jordy.help/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Jan 2017 15:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2017 15:02:23 GMT</lastBuildDate>
         <atom:link href="http://blog.jordy.help/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Jan 2017 15:02:19 GMT</pubDate>
+        <pubDate>Tue, 03 Jan 2017 15:02:22 GMT</pubDate>
         <item>
             <title><![CDATA[The Grid Webinar]]></title>
             <description><![CDATA[<article><h1>The Grid Webinar</h1><p>I did a live Q&A for the Grid webinar yesterday. It was a ton of fun! In case you missed it, here’s a recording.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b9b0594dd580e7159d26399d6001353a/croprotate.jpg?cropheight=720&cropwidth=960&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FY6poKOj2oj8%2Fmaxresdefault.jpg&x=160&y=0"></article>]]></description>
@@ -41,6 +41,13 @@
             <link>http://www.theminimalists.com/game/</link>
             <guid isPermaLink="false">cd101b8b-aa01-4192-bd19-b33d52d0dacf</guid>
             <pubDate>Tue, 03 Jan 2017 01:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Podcast 045 | Parenting]]></title>
+            <description><![CDATA[<article><h1>Podcast 045 | Parenting</h1><p>Joshua answers questions about parenting as a minimalist, including: How do you minimize the accoutrements that seem requisite when you have young children? How do you initiate a minimalist lifestyle with family members, and how do you maintain and measure the results of such a lifestyle?</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/899b6cd16e9d8156d09303e7045a3996/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fta9xSTUdrTk%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ta9xSTUdrTk</link>
+            <guid isPermaLink="false">7d4f030f-e2c5-48ca-b34c-4716f8229163</guid>
+            <pubDate>Tue, 03 Jan 2017 15:02:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Minimalism: Live a Meaningful Life (Audiobook)]]></title>
