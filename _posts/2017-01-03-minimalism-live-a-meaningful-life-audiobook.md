@@ -66,13 +66,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=2FYRQRjzihs'
 title: 'Minimalism: Live a Meaningful Life (Audiobook)'
-datePublished: '2017-01-03T15:02:19.179Z'
-dateModified: '2017-01-03T14:54:35.135Z'
-datePublishedOriginal: '2017-01-03T15:02:19.179Z'
+datePublished: '2017-01-03T18:37:33.670Z'
+dateModified: '2017-01-03T18:37:33.089Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-03-minimalism-live-a-meaningful-life-audiobook.md
+starred: false
+datePublishedOriginal: '2017-01-03T15:02:19.179Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
