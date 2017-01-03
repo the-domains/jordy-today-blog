@@ -25,15 +25,16 @@ description: >-
   no longer even have!
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://less.best/'
 title: Less is Best
-datePublished: '2017-01-03T02:03:03.505Z'
-dateModified: '2017-01-03T02:03:02.785Z'
+datePublished: '2017-01-03T02:03:05.615Z'
+dateModified: '2017-01-03T02:03:04.866Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-29-less-is-best.md
 starred: false
 datePublishedOriginal: '2016-12-29T08:15:06.596Z'
+hasPage: true
+url: less-is-best/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -43,3 +44,5 @@ I've recently started the journey toward minimalism! I've reduced all of my clot
 <article style=""><h1>Less is Best</h1><p>We believe that owning fewer material things can make us happier. Reduce what we own, rent what we need, and refine the rest. Here is the deceivingly simple method to our happiness.</p></article>
 
 Update: The journey continues! My house is a lot less cluttered. I have clean garage, clean office and living room. I already feel way less stressed. I was so anxious in my own home with all of the shit that I had that I was ready to move. Now, I'm happy in my own home again.
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPL_lgycWAgpwuxxZI5tr-gJW3_nH8bKIUc&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGGItVvYRKE4&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGGItVvYRKE4%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
