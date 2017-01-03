@@ -20,12 +20,7 @@ keywords:
   - book tour
   - everything that remains
   - simp...
-description: >-
-  About The Minimalists: http://theminimalists.com Get the book:
-  http://everythingthatremains.com "Like Henry David Thoreau, but with Wi-Fi."
-  -Boston Globe Twenty-something, suit-clad, and upwardly mobile, Joshua Fields
-  Millburn thought he had everything anyone could ever want. Until he didn't
-  anymore.
+description: Love this!
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=gnKvtfEGDjQ&feature=applinks'
     type: ios
@@ -65,15 +60,17 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=gnKvtfEGDjQ'
 title: 'The Minimalists: Everything That Remains'
-datePublished: '2017-01-03T14:51:20.734Z'
-dateModified: '2017-01-03T14:51:01.866Z'
-datePublishedOriginal: '2017-01-03T14:51:20.734Z'
+datePublished: '2017-01-03T18:33:20.498Z'
+dateModified: '2017-01-03T18:33:19.698Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-03-the-minimalists-everything-that-remains.md
+starred: false
+datePublishedOriginal: '2017-01-03T14:51:20.734Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+Love this!
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgnKvtfEGDjQ%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgnKvtfEGDjQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgnKvtfEGDjQ%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
