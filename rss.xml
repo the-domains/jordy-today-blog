@@ -4,9 +4,9 @@
         <description><![CDATA[Jordy's Blog]]></description>
         <link>http://blog.jordy.help/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Jan 2017 15:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2017 15:02:31 GMT</lastBuildDate>
         <atom:link href="http://blog.jordy.help/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Jan 2017 15:02:22 GMT</pubDate>
+        <pubDate>Tue, 03 Jan 2017 15:02:24 GMT</pubDate>
         <item>
             <title><![CDATA[The Grid Webinar]]></title>
             <description><![CDATA[<article><h1>The Grid Webinar</h1><p>I did a live Q&A for the Grid webinar yesterday. It was a ton of fun! In case you missed it, here’s a recording.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b9b0594dd580e7159d26399d6001353a/croprotate.jpg?cropheight=720&cropwidth=960&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FY6poKOj2oj8%2Fmaxresdefault.jpg&x=160&y=0"></article>]]></description>
@@ -41,6 +41,13 @@
             <link>http://www.theminimalists.com/game/</link>
             <guid isPermaLink="false">cd101b8b-aa01-4192-bd19-b33d52d0dacf</guid>
             <pubDate>Tue, 03 Jan 2017 01:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Essential: Essays by The Minimalists (Audiobook)]]></title>
+            <description><![CDATA[<article><h1>Essential: Essays by The Minimalists (Audiobook)</h1><p>The best of The Minimalists! From simple living, decluttering, and finances, to passion, health, and relationships, ESSENTIAL is for anyone who desires a more intentional life.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/acba0c9dc03bc73f07039702a48e4542/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FAuFaXJOX-qU%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=AuFaXJOX-qU</link>
+            <guid isPermaLink="false">9fb872a9-b691-4335-8251-37fa6ad7a9a4</guid>
+            <pubDate>Tue, 03 Jan 2017 15:02:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Podcast 045 | Parenting]]></title>
