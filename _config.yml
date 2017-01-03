@@ -27,9 +27,6 @@ navigation:
   - name: Art
     url: 'http://art.jordy.help'
     type: external
-  - id: ab4bf92e-c46b-4a0a-936e-b1b823bd85f3
-    name: Less.Best
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/83a6c9fc-190a-4e2b-bfa3-01620ea6517a.png
 title: Jordy's Blogs
