@@ -1,4 +1,6 @@
 typography_spectrum: 0.12237965851090848
+content_rating:
+  adult: false
 color:
   brandStrength: 0.49644097755663097
   lightness: 0.656527888495475
@@ -10,7 +12,10 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+github: true
 layout_spectrum: 0.24126001098193228
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/021ee57e-94fe-4f75-9cc8-cc491ed6a1d0.png
 name: My Blog
 navigation:
   - url: 'http://www.theminimalists.com/game/'
@@ -22,9 +27,16 @@ navigation:
   - name: Art
     url: 'http://art.jordy.help'
     type: external
+  - id: ab4bf92e-c46b-4a0a-936e-b1b823bd85f3
+    name: Less.Best
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/83a6c9fc-190a-4e2b-bfa3-01620ea6517a.png
+title: Jordy's Blogs
 content: []
 coverPrefs:
   filter: false
+description: A blog about things and having less of them
 purpose:
   - type: contact
     url: 'tel:9716450553'
@@ -32,12 +44,3 @@ purpose:
   - type: contact
     url: 'mailto:webb.jordy@gmail.com'
     label: Contact me
-title: Jordy's Blogs
-description: A blog about things and having less of them
-github: true
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/83a6c9fc-190a-4e2b-bfa3-01620ea6517a.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/021ee57e-94fe-4f75-9cc8-cc491ed6a1d0.png
-content_rating:
-  adult: false
