@@ -17,13 +17,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=AuFaXJOX-qU'
 title: 'Essential: Essays by The Minimalists (Audiobook)'
-datePublished: '2017-01-03T15:02:23.804Z'
-dateModified: '2017-01-03T14:53:42.466Z'
-datePublishedOriginal: '2017-01-03T15:02:23.804Z'
+datePublished: '2017-01-03T18:37:33.671Z'
+dateModified: '2017-01-03T18:37:33.089Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-03-essential-essays-by-the-minimalists-audiobook.md
+starred: false
+datePublishedOriginal: '2017-01-03T15:02:23.804Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
