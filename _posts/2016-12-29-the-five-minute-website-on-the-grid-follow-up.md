@@ -63,8 +63,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Y6poKOj2oj8&feature=youtu.be'
 title: The Grid Webinar
-datePublished: '2017-01-03T01:29:20.549Z'
-dateModified: '2017-01-03T01:29:19.910Z'
+datePublished: '2017-01-03T01:35:43.183Z'
+dateModified: '2017-01-03T01:35:42.238Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-29-the-five-minute-website-on-the-grid-follow-up.md
