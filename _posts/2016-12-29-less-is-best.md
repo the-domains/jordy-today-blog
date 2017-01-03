@@ -27,8 +27,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://less.best/'
 title: Less is Best
-datePublished: '2017-01-03T01:29:20.520Z'
-dateModified: '2017-01-03T01:29:19.910Z'
+datePublished: '2017-01-03T01:53:47.336Z'
+dateModified: '2017-01-03T01:53:46.468Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-29-less-is-best.md
@@ -41,3 +41,5 @@ _type: MediaObject
 I've recently started the journey toward minimalism! I've reduced all of my clothing down to 30 items. I've also purged all of my electronics that I don't need. It's been hard! Although, I must say it gave me great joy to finally rid myself of that damn cable box with all the adapters and chargers for devices I no longer even have!
 
 <article style=""><h1>Less is Best</h1><p>We believe that owning fewer material things can make us happier. Reduce what we own, rent what we need, and refine the rest. Here is the deceivingly simple method to our happiness.</p></article>
+
+Update: The journey continues! My house is
