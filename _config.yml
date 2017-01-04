@@ -32,4 +32,7 @@ content: []
 coverPrefs:
   filter: false
 description: A blog about things and having less of them
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:webb.jordy@gmail.com'
+    label: Contact me
