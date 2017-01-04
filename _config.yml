@@ -36,3 +36,6 @@ purpose:
   - type: contact
     url: 'mailto:webb.jordy@gmail.com'
     label: Contact me
+  - type: contact
+    url: 'tel:9716450553'
+    label: Call 9716450553
