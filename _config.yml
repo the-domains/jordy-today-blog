@@ -32,7 +32,4 @@ content: []
 coverPrefs:
   filter: false
 description: A blog about things and having less of them
-purpose:
-  - type: contact
-    url: 'tel:9716450553'
-    label: Call 9716450553
+purpose: []
