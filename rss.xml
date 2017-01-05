@@ -4,9 +4,9 @@
         <description><![CDATA[Jordy's Blog]]></description>
         <link>http://blog.jordy.help/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Jan 2017 18:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2017 05:13:39 GMT</lastBuildDate>
         <atom:link href="http://blog.jordy.help/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Jan 2017 18:45:39 GMT</pubDate>
+        <pubDate>Thu, 05 Jan 2017 05:13:38 GMT</pubDate>
         <item>
             <title><![CDATA[The Grid Webinar]]></title>
             <description><![CDATA[<article><h1>The Grid Webinar</h1><p>I did a live Q&A for the Grid webinar yesterday. It was a ton of fun! In case you missed it, here’s a recording. We have a lot more webinars coming up soon! Stay tuned!</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b9b0594dd580e7159d26399d6001353a/croprotate.jpg?cropheight=720&cropwidth=960&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FY6poKOj2oj8%2Fmaxresdefault.jpg&x=160&y=0"></article>]]></description>
@@ -55,6 +55,13 @@
             <link>https://www.youtube.com/watch?v=gnKvtfEGDjQ</link>
             <guid isPermaLink="false">8003e6f5-69d0-4fc3-82ff-0a49d1709a13</guid>
             <pubDate>Tue, 03 Jan 2017 18:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is Minimalism? | The Minimalists]]></title>
+            <description><![CDATA[<article><h1>What Is Minimalism? | The Minimalists</h1><p>So what is this minimalism thing? It's quite simple: to be a minimalist you must live with less than 100 things, you can't own a car or a home or a television, you can't have a career, you must live in exotic hard-to-pronounce places all over the world, you must start a blog, you can't have children, ...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/857b2cb68c8b8fb6529a3c5a56c764af/noop.jpg?input=http%3A%2F%2Fwww.theminimalists.com%2Ffiles%2F2010%2F11%2FArchives-12.jpg"></article>]]></description>
+            <link>http://www.theminimalists.com/minimalism/</link>
+            <guid isPermaLink="false">56df3005-e59e-4445-ad0e-2f7974a34b4b</guid>
+            <pubDate>Thu, 05 Jan 2017 05:13:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
