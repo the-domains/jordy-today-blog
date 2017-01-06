@@ -17,9 +17,6 @@ layout_spectrum: 0.24126001098193228
 logo: null
 name: My Blog
 navigation:
-  - url: 'http://www.theminimalists.com/game/'
-    name: Minimalists
-    type: external
   - name: Home
     url: 'http://jordy.help'
     type: external
