@@ -26,9 +26,6 @@ navigation:
   - name: Art
     url: 'http://art.jordy.help'
     type: external
-  - url: 'http://www.theminimalists.com/minimalism/'
-    name: Minimalists
-    type: external
 favicon: null
 title: Jordy's Blog
 content: []
